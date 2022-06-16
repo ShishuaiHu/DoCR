@@ -1,5 +1,7 @@
 # :page_facing_up: Domain Specific Convolution and High Frequency Reconstruction based Unsupervised Domain Adaptation for Medical Image Segmentation (DoCR)
 
+<p align="center"><img src="https://raw.githubusercontent.com/ShishuaiHu/DoCR/master/figures/overview.png" width="90%"></p>
+
 ### Data Preparation
 
 The dataset used in this study (RIGA+) can be downloaded from [Zenodo](https://zenodo.org/record/6325549).
