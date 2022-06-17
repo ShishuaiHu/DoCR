@@ -11,6 +11,7 @@ setup(name='docr',
       install_requires=[
             "torch>=1.6.0a",
             "tqdm",
+            "setuptools==59.5.0",
             "dicom2nifti",
             "scikit-image>=0.14",
             "medpy",
