@@ -1,6 +1,6 @@
 # :page_facing_up: Domain Specific Convolution and High Frequency Reconstruction based Unsupervised Domain Adaptation for Medical Image Segmentation (DoCR)
 
-<p align="center"><img src="https://raw.githubusercontent.com/ShishuaiHu/DoCR/master/figures/overview.png" width="90%"></p>
+<p align="center"><img src="https://github.com/ShishuaiHu/DoCR/blob/master/figures/overview.png" width="90%"></p>
 
 ### Data Preparation
 
