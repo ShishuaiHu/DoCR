@@ -17,7 +17,7 @@ virtualenv .env --python=3
 source .env/bin/activate
 # Install PyTorch, compiling PyTorch on your own workstation is suggested but not needed.
 # Follow the instructions on https://pytorch.org/get-started/locally/
-pip install torch torchvision torchaudio # or other command to match your CUDA version
+pip install torch torchvision # or other command to match your CUDA version
 # Install DoCR
 pip install -e .
 ```
