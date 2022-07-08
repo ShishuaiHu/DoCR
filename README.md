@@ -26,8 +26,8 @@ pip install -e .
 
 ```shell
 # Path Preparation
-export OUTPUT_FOLDER="YOUR OUTPUT FOLDER"
-export RIGAPLUS_DATASET_FOLDER="RIGA+ DATASET FOLDER"
+export OUTPUT_FOLDER="YOUR OUTPUT FOLDER"  # cannot be ended with '/'
+export RIGAPLUS_DATASET_FOLDER="RIGA+ DATASET FOLDER"  # cannot be ended with '/'
 
 # Target Domain - Base 1
 DoCR_train --model DoCR --gpu 0 --tag Base1 \
