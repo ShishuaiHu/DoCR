@@ -5,8 +5,8 @@ setup(name='docr',
       version='0.0.1',
       description='Domain specific Convolution and high frequency Reconstruction (DoCR) '
                   'based UDA for medical image segmentation.',
-      author='anonymous',
-      author_email='anonymous',
+      author='Shishuai Hu',
+      author_email='sshu@mail.nwpu.edu.cn',
       license='Apache License Version 2.0, January 2004',
       install_requires=[
             "torch>=1.6.0a",
