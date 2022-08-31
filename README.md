@@ -68,10 +68,12 @@ $RIGAPLUS_DATASET_FOLDER/Magrabia_test.csv \
 If you find this repo useful for your research, please consider citing the paper as follows:
 
 ```
-@misc{hu2022domain,
-      title={Domain Specific Convolution and High Frequency Reconstruction based Unsupervised Domain Adaptation for Medical Image Segmentation}, 
-      author={Shishuai Hu and Zehui Liao and Yong Xia},
-      year={2022},
+@inproceedings{hu2022domain,
+  title={Domain Specific Convolution and High Frequency Reconstruction based Unsupervised Domain Adaptation for Medical Image Segmentation},
+  author={Shishuai Hu and Zehui Liao and Yong Xia},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  year={2022},
+  organization={Springer}
 }
 ```
 
